@@ -110,7 +110,7 @@
     <Resource Include="Resources\CustomerStateDenied.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ListViewLayout\ListViewLayout2010.csproj">
+    <ProjectReference Include="..\ListViewLayout\ListViewLayout.csproj">
       <Project>{916A9879-3F2D-471F-AAFA-28F0C8A7FFA9}</Project>
       <Name>ListViewLayout</Name>
     </ProjectReference>
